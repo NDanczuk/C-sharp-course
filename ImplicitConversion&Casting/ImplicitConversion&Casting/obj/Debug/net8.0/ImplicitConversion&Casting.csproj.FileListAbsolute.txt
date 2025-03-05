@@ -1,0 +1,15 @@
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\bin\Debug\net8.0\ImplicitConversion&Casting.exe
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\bin\Debug\net8.0\ImplicitConversion&Casting.deps.json
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\bin\Debug\net8.0\ImplicitConversion&Casting.runtimeconfig.json
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\bin\Debug\net8.0\ImplicitConversion&Casting.dll
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\bin\Debug\net8.0\ImplicitConversion&Casting.pdb
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.AssemblyInfoInputs.cache
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.AssemblyInfo.cs
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.csproj.CoreCompileInputs.cache
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.sourcelink.json
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.dll
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\refint\ImplicitConversion&Casting.dll
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.pdb
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ImplicitConversion&Casting.genruntimeconfig.cache
+D:\projetos\ImplicitConversion&Casting\ImplicitConversion&Casting\obj\Debug\net8.0\ref\ImplicitConversion&Casting.dll
