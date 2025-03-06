@@ -1,0 +1,15 @@
+D:\projetos\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.exe
+D:\projetos\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.deps.json
+D:\projetos\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.runtimeconfig.json
+D:\projetos\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.dll
+D:\projetos\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.pdb
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfoInputs.cache
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfo.cs
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.sourcelink.json
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.dll
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\refint\ArithmeticOperators.dll
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.pdb
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.genruntimeconfig.cache
+D:\projetos\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0\ref\ArithmeticOperators.dll
